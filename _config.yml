@@ -1,1 +1,10 @@
 theme: jekyll-theme-minimal
+title: yagetang个人博客
+SEOTitle: yagetang个人博 | yagetang Blog
+header-img: img/home-bg-hill.jpg
+email: yagetang@163.com
+description: "描述"
+keyword: "yagetang, keysaim"
+url: "https://yagetang.github.io"
+baseurl: ""
+...
